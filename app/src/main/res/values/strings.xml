@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hilbert</string>
+    <string name="dec_button_label">−</string>
+    <string name="inc_button_label">+</string>
+    <string name="level_format">Hilbert Curve (n = %d)</string>
+</resources>
